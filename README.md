@@ -1,6 +1,6 @@
 # Rainfall-Prediction-Using-Machine-Learning
 
-Course Badges Link:
+## Course Badges Link:
 
 Getting Started With Enterprise-Grade AI: https://www.credly.com/earner/earned/badge/021cc621-61de-484a-98ed-4d19288b1982
 
